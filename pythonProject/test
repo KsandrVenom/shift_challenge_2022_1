@@ -1,0 +1,4 @@
+class TestStringMethods(unittest.TestCase):
+    def test_negative_connection(self):
+        message = 'Status code is not equal 200 — problem in loading site'
+        self.assertEqual(r.status_code, 200, message)
