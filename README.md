@@ -6,10 +6,10 @@
 
 Вспомнил ещё, что делал что-то с блок-схемами, IT-аудит.
  
-![IT аудитор от компании KMPG](https://github.com/KsandrVenom/shift_challenge_2022_1/blob/main/1.png)
+![SQL разработчик от компании Протек](https://github.com/KsandrVenom/shift_challenge_2022_1/blob/main/Changellenge%20Shift%2BEnter%202022%20-%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20-%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-1-1.png)
 ***
 
-![SQL разработчик от компании Протек](https://github.com/KsandrVenom/shift_challenge_2022_1/blob/main/Changellenge%20Shift%2BEnter%202022%20-%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20-%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-1-1.png)
+![IT аудитор от компании KMPG](https://github.com/KsandrVenom/shift_challenge_2022_1/blob/main/1.png)
 ***
 
 ![Аналитик данных от компаний UniCredit](https://github.com/KsandrVenom/shift_challenge_2022_1/blob/main/3.png)
